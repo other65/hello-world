@@ -1,0 +1,12 @@
+body {
+	background: orange;
+}
+div	{
+	background: purple;
+}
+#special {
+	color: yellow;
+}
+#special1 {
+	border: 1px solid blue;	
+}
